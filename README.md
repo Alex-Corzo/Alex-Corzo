@@ -38,6 +38,9 @@
 <h2 >Algunos proyectos👨🏻‍💻</h2>
 
 
+<img src="/Insignia_ciberseguridad.png" alt="Descripción de la imagen" width="108">
+
+
   
 </tr>
 </table>
